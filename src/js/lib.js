@@ -1,14 +1,12 @@
-export function calculatorSales(sales){
-    let sumSales = 0;
+export function calculateBonus(sales){
+    let bonus = 0;
+    const percentOfSales = 0.05;
     const saleTenThousand = 10000;
     for (const sale of sales) {
-        if (sale <= saleTenThousand){
-            sumSales += 0;
-        }
         if (sale > saleTenThousand){
-            sumSales += (sale - saleTenThousand) * 0.05;
+            bonus += (sale - saleTenThousand) * percentOfSales;
         }
     }
-    return sumSales;
+    return bonus;
 }
 
