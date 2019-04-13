@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/artem-eremchuk/calculator-bonus.svg?branch=master)](https://travis-ci.org/artem-eremchuk/calculator-bonus)
+[![Build Status](https://travis-ci.org/artem-eremchuk/calculator-bonus.svg?branch=master)](https://travis-ci.org/artem-eremchuk/calculator-bonus)[![codecov](https://codecov.io/gh/artem-eremchuk/calculator-bonus/branch/master/graph/badge.svg)](https://codecov.io/gh/artem-eremchuk/calculator-bonus)
